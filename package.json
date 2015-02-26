@@ -1,7 +1,7 @@
 { 
   "name": "route-walker",
   "description": "Walk a geo route and do stuff.",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "licenses": [{
     "type": "MIT",
     "url": "https://github.com/jamesbloomer/node-walker/blob/master/LICENCE"
